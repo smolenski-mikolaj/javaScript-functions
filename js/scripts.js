@@ -12,3 +12,4 @@ if (value > 0) {
 } else if (value == 0) {
 	console.log('Wynik równy 0');
 }
+
